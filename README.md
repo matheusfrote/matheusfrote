@@ -196,13 +196,15 @@ Repositório dedicado aos meus projetos, estudos e aplicações relacionadas a:
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=matheusfrote&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1"
+  width="49%"
+  src="./profile-summary-card-output/github_dark/3-stats.svg"
+  alt="GitHub stats"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfrote&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1"
+  width="49%"
+  src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Most used languages"
 />
 
 </div>
@@ -226,19 +228,9 @@ Repositório dedicado aos meus projetos, estudos e aplicações relacionadas a:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=matheusfrote&bg_color=00000000&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=matheusfrote&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+  width="100%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub activity details"
 />
 
 </div>
